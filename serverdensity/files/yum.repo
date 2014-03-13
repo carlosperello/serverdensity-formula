@@ -1,0 +1,7 @@
+[serverdensity]
+name=Server Density
+baseurl=http://www.serverdensity.com/downloads/linux/redhat/
+enabled=1
+gpgcheck=1
+gpgkey=file:///etc/pki/rpm-gpg/RPM-GPG-KEY-serverdensity
+
